@@ -1,5 +1,6 @@
 ---
 title: "Polkadot"
+writer: "DavidS| logion.NET| Polkadot Amb / twitter : @be_dasc"
 ---
 ## Le positionnement de Polkadot 
 
@@ -99,7 +100,6 @@ Enfin, comme les jetons ne quittent pas le réseau, le mécanisme des IPO contri
 ## Staking – la mise 
 
 ![](consensusRoles.PNG)
-
 (source : polkadot.network) 
 
 Polkadot sécurise et connecte de nombreuses parachain par le bief de sa relay-chain. Pour ce faire, il a fallu y mettre en place un solide mécanisme de consensus qui assure le bon fonctionnement de cette relay chain : comment les blocs sont-ils produits, comment les informations sont-elles vérifiées… 
@@ -118,6 +118,9 @@ In fine, ce sont les détenteurs de jetons qui contrôlent le réseau Polkadot.
 
 Au travers d’appels aux votes publics, ils prennent directement certaines décisions qui concerne l’organisation du réseau, son développement technique, ses orientations stratégiques. 
 
+![](gouvernance.PNG)
+(source : polkadot.network) 
+
 On appelle cela une gouvernance décentralisée et transparente. Ces nouveaux modes organisationnels sont rendus possibles et efficaces grâce à l’utilisation de la technologie blockchain qui rend publiques toutes les transactions et les interventions des parties prenantes à la gouvernance. Ceci est évidemment très différent de tout ce que nous avons connu jusqu’à présent avec les entreprises classiques qui convoquent plus rarement leurs actionnaires pour des assemblées générales. Ici, la gouvernance est exercée et partagée en permanence, 7/7 jours. 
 
 Pour y prendre part, les utilisateurs doivent, à nouveau, détenir des jetons du réseau (DOT), qu’ils vont verrouiller plus ou moins longtemps pour soutenir la décision de leur choix. Ces mêmes jetons sont libérés à la fin du vote. 
@@ -125,6 +128,9 @@ Pour y prendre part, les utilisateurs doivent, à nouveau, détenir des jetons d
 Enfin, pour éviter que les votes ne soient l’apanage seul des plus gros détenteurs de DOT, la communauté a mis en place un mécanisme spécifique d’engagement temporel. Il est possible de contrebalancer le fait de détenir moins de DOT en les bloquant sur une plus longue période, ce qui aura pour conséquence de donner plus de poids au vote. 
 
 ## Quelques mots à propos de Kusama 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Yayoi_Kusama_cropped_1_Yayoi_Kusama_201611.jpg/435px-Yayoi_Kusama_cropped_1_Yayoi_Kusama_201611.jpg)
+
+(Yayoi Kusama : artiste japonnaise / source : https://commons.wikimedia.org/wiki/File:Yayoi_Kusama_cropped_1_Yayoi_Kusama_201611.jpg)
 
 Kusama est un réseau qui fait partie de l’écosystème Polkadot, avec une relay-chain et un jeton (KSM) qui lui sont propre. 
 
