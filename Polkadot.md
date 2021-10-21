@@ -98,6 +98,8 @@ Enfin, comme les jetons ne quittent pas le réseau, le mécanisme des IPO contri
  
 ## Staking – la mise 
 
+![](consensusRoles.PNG)
+
 (source : polkadot.network) 
 
 Polkadot sécurise et connecte de nombreuses parachain par le bief de sa relay-chain. Pour ce faire, il a fallu y mettre en place un solide mécanisme de consensus qui assure le bon fonctionnement de cette relay chain : comment les blocs sont-ils produits, comment les informations sont-elles vérifiées… 
