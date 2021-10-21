@@ -79,7 +79,7 @@ Arrêtons-nous toutefois sur le jeton Polkadot (DOT), car celui-ci va nous perme
 
 Il s’agit donc de l’actif numérique natif du réseau pour la gouvernance, le staking (mise) et le bonding (cautionnement). Voyons cela en détail. 
  
- 
+ ![](gouvernanceStackingBonding.PNG)
 (source : polkadot.network) 
 
 ## Bonding - cautionnement 
