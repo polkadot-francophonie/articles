@@ -52,6 +52,8 @@ C’est ainsi qu’est né Subtrate, un framework développé par Parity, basé 
 
 Cela étant, à la base, il n’y a pas de barrière technologique à l’entrée pour se connecter à l’environnement Polkadot, Substrate n’étant qu’une possibilité parmi d’autres.  
 
+![](Capture.PNG)
+
 (source : polkadot.network) 
 
 En revanche, force est de constater que construire un réseau blockchain autonome à partir de zéro est vraiment difficile. Il faut disposer de beaucoup de ressources et de compétences. En utilisant Substrate, comme alternative, chaque entrepreneur dispose d'outils simples et prêts à l'emploi, pour concrétiser rapidement un projet blockchain. 
